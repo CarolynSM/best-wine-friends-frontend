@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans+Condensed:300,700');
+ @import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans+Condensed:300,700');
 
 /*font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Amatic SC', cursive;*/
@@ -21,6 +21,11 @@ h1 {
   margin: 0.2em;
   text-align: center;
   text-transform: uppercase;
+}
+
+.logo {
+  color: black;
+  text-decoration: none;
 }
 
 h3 {
@@ -117,6 +122,17 @@ select {
   text-align: center;
 }
 
+.about {
+  margin: 1rem 2rem;
+  width: 65%;
+}
+
+.about p {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  text-align: center;
+}
+
 footer {
   text-align: center;
 }
@@ -130,4 +146,8 @@ footer p a {
   font-size: 1.6em;
   font-weight: bold;
   text-decoration: none;
+}
+
+.wine-glass {
+  padding: 0 0.3em;
 }

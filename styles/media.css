@@ -18,12 +18,13 @@ and (max-width: 480px) {
   }
   .img {
     margin: 0.5em;
-  }
-  img {
     height: 40px;
     width: 40px;
   }
   .flavor-profile-img {
     border: white;
+  }
+  .about {
+    width: 90%;
   }
 }
