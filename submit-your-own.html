@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/reset.css" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <link rel="stylesheet" href="styles/media.css" />
+    <title>BWF App</title>
+  </head>
+  <body>
+    <header>
+      <h1>Best Wine Friends</h1>
+      <h3>Which wines are best friends with your food?</h3>
+    </header>
+    <main>
+      <div class="form">
+        <form>
+          <div class="main-dish">
+              <label>Main Ingredient</label>
+              <select id="main-ingredient">
+                <option value="">What are you cooking?</option>
+              </select>
+          </div>
+          <div class="flavor-profile">
+              <label>Flavor Profile</label>
+              <select id="flavor-profile">
+                <option value="">Select Your Main Ingredient First</option>
+              </select>
+              <p class="profile-description"></p>
+          </div>
+          <div class="suggestion">
+            <label for="wine-suggestion">Your Pairing Suggestion:</label>
+            <input name="wine-suggestion" class="wine-suggestion" type="text" name="wine_suggestion"/>
+          </div>
+          <div class="button">
+            <button type="submit" class="submit">Submit Your BWF</button>
+          </div>
+        </form>
+      </div>
+    </main>
+    <footer>
+      <p>
+        <a href="index.html">Return to the app</a>
+      </p>
+      <p>
+        <small>&copy; 2018, Carolyn Selheim-Miller</small>
+      </p>
+    </footer>
+    <script src="scripts/submit.js"></script>
+  </body>
+</html>

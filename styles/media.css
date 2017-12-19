@@ -1,0 +1,29 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media screen
+and (min-width: 320px)
+and (max-width: 480px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 3.5em;
+  }
+  h3 {
+    font-size: 1.5em;
+  }
+  footer p a {
+    font-size: 1.3em;
+  }
+  .img {
+    margin: 0.5em;
+  }
+  img {
+    height: 40px;
+    width: 40px;
+  }
+  .flavor-profile-img {
+    border: white;
+  }
+}
