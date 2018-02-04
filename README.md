@@ -5,3 +5,5 @@ BWF is the easy-to use wine pairing app that makes pairing suggestion based on y
 ### Technologies Used:
 * HTML5, CSS3, Vanilla Javascript, Firebase
 * Express.js, CORS, Heroku
+
+See the backend repo [here](https://github.com/CarolynSM/best-wine-friends-backend)
