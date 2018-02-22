@@ -15,3 +15,8 @@ Taste a new wine pairing you love? Suggest it right within the app!
 * Express.js, CORS, Mocha, Heroku
 
 See the backend repo [here](https://github.com/CarolynSM/best-wine-friends-backend)
+
+## Local Installation Instructions:
+    $ git clone git@github.com:CarolynSM/best-wine-friends-frontend.git
+    $ cd best-wine-friends-frontend
+    $ npm install
