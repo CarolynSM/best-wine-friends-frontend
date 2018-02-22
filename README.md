@@ -16,7 +16,20 @@ Taste a new wine pairing you love? Suggest it right within the app!
 
 See the backend repo [here](https://github.com/CarolynSM/best-wine-friends-backend)
 
-## Local Installation Instructions:
+## Local Installation Instructions
     $ git clone git@github.com:CarolynSM/best-wine-friends-frontend.git
     $ cd best-wine-friends-frontend
     $ npm install
+
+## Support & Contributing
+For support, please [open a new issue](https://github.com/CarolynSM/best-wine-friends-frontend/issues/new).
+
+Utilize [Github Flow](https://guides.github.com/introduction/flow/) to contribute. Create a branch, add commits, and open a pull request.
+
+### Author:
+[Carolyn Selheim-Miller](seecarolyncode.com)
+[Carolyn Selheim-Miller on LinkedIn](https://www.linkedin.com/in/carolynselheimmiller)
+
+### License:
+MIT License
+Copyright (c) 2018 Carolyn Selheim-Miller
